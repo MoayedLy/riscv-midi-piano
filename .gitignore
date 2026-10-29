@@ -1,0 +1,24 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and IDE configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# RARS / MARS simulator dumps and logs
+*.dump
+*.log
+*.trace
+
+# Backup and temp files
+*~
+*.bak
+*.tmp
+*.swp
+
+# Optional: Ignore downloaded RARS JAR binaries if you keep them locally
+# *.jar
